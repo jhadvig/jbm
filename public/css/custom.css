@@ -1,0 +1,40 @@
+body {
+  background: url("../images/background.svg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  overflow-x: hidden;
+}
+
+.logo {
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.index-row {
+  top: 50%;
+}
+
+.index-section {
+  margin-top: 50px;
+}
+
+.pub,
+.brewery {
+  display: block;
+  margin: 0 auto;
+}
+
+.blackboard {
+  width: 100%;
+  margin-top: 50px;
+}
+
+/*.blackboard {
+  background: url("../images/blackboard.svg");
+  background-size: contain;
+  margin-top: 50px;
+}*/
